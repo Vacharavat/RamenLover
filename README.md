@@ -1,2 +1,3 @@
 # RamenLover
-เก็บข้อมูลบะหมี่กึ่งสำเร็จรูปทั่วโลกกว่า 2500 ชนิดเพื่อวิเคราะห์ว่า บะหมี่กึ่งสำเร็จรูปรสชาติไหนที่คนนิยม และบรรจุในรูปแบบไหนที่คนชอบซื้อ เพื่อนำไปคาดการณ์สำหรับบุคคลที่ต้องการสร้างแบรน์บะหมี่กึ่งสำเร็จรูปของตัวเอง
+correct ramen around the world over 2500 of ramen rating and analyze it which one is the bestseller and we'll know which flavour
+that people love
