@@ -14,7 +14,7 @@ https://vacharavat.github.io/RamenLover/
 
 ## Member
 
-1.[Vacharavat Kesbuntherng](https://www.facebook.com/Vachararame) 61070192
-2.[Natthaphat Kongthong](https://www.facebook.com/natthaphat.kongthong.1) 61070051
-3.[Thanawat Wongsud](https://www.facebook.com/sseanz)
+- [Vacharavat Kesbuntherng](https://www.facebook.com/Vachararame) 61070192
+- [Natthaphat Kongthong](https://www.facebook.com/natthaphat.kongthong.1) 61070051
+- [Thanawat Wongsud](https://www.facebook.com/sseanz)
 
